@@ -1,0 +1,4 @@
+tasks:
+  - name: show version
+    ios_command:
+      commands: show version
